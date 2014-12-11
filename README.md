@@ -6,5 +6,9 @@ make a small magnet. Print the [complete sign](stl/complete-sign.stl), and glue
 some small disc magnets in the back. Looks best if you swap filament half way
 through the print so the octocat is colored differently.
 
-![front](/screenshots/front.png)
-![back](/screenshots/back.png)
+
+### Front
+[![front](/screenshots/front.png)](/stl/complete-sign.stl)
+
+### Back
+[![back](/screenshots/back.png)](/stl/complete-sign.stl)
